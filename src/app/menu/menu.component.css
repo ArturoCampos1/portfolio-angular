@@ -101,27 +101,27 @@
 @media (max-width: 1113px) {
     .cartasInfo{
         left: 15%;
-        top: 32%;
+        top: 42%;
         gap: 50px;
     }
 
     .infoCompleta{
         padding: 5px;
         left: 10%;
-        top: 32%;
+        top: 42%;
     }
 }
 
 @media (max-width: 640px) {
     .cartasInfo{
         left: 15%;
-        top: 52%;
+        top: 60%;
         gap: 50px;
     }
 
     .infoCompleta{
         padding: 5px;
         left: 10%;
-        top: 52%;
+        top: 60%;
     }
 }
