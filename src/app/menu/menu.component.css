@@ -100,28 +100,25 @@
 
 @media (max-width: 1113px) {
     .cartasInfo{
-        left: 15%;
-        top: 42%;
-        gap: 50px;
+        left: 20%;
     }
 
     .infoCompleta{
-        padding: 5px;
-        left: 10%;
-        top: 42%;
+        left: 20%;
     }
 }
 
 @media (max-width: 640px) {
     .cartasInfo{
-        left: 15%;
-        top: 60%;
-        gap: 50px;
+        top: 50%;
+        grid-template-columns: repeat(1, 1fr);
     }
 
     .infoCompleta{
-        padding: 5px;
-        left: 10%;
-        top: 60%;
+        top: 50%;
+    }
+
+    .educacion-item{
+        width: 200px;
     }
 }

@@ -90,8 +90,7 @@
   .contenidoPrincipal{
     display: flex;
     flex-direction: column;
-    justify-content: left;
-    left: 16%;
+    position: relative;
 
   }
   .datos{
