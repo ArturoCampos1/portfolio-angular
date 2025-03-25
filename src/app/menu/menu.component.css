@@ -110,12 +110,12 @@
 
 @media (max-width: 640px) {
     .cartasInfo{
-        top: 50%;
+        top: 55%;
         grid-template-columns: repeat(1, 1fr);
     }
 
     .infoCompleta{
-        top: 50%;
+        top: 55%;
     }
 
     .educacion-item{
