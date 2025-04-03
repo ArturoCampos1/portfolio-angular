@@ -88,19 +88,31 @@
 @media (max-width: 1674px) {
     .cartasInfo{
         left: 30%;
+<<<<<<< HEAD
         top: 32%;
+=======
+        top: 38%;
+>>>>>>> bc448b4 (Descripción de los cambios)
         gap: 50px;
     }
 
     .infoCompleta{
         left: 30%;
+<<<<<<< HEAD
         top: 32%;
+=======
+        top: 36%;
+>>>>>>> bc448b4 (Descripción de los cambios)
     }
 }
 
 @media (max-width: 1113px) {
     .cartasInfo{
         left: 20%;
+<<<<<<< HEAD
+=======
+        top: 45%;
+>>>>>>> bc448b4 (Descripción de los cambios)
     }
 
     .infoCompleta{
@@ -110,6 +122,7 @@
 
 @media (max-width: 640px) {
     .cartasInfo{
+<<<<<<< HEAD
         top: 55%;
         grid-template-columns: repeat(1, 1fr);
     }
@@ -120,5 +133,19 @@
 
     .educacion-item{
         width: 200px;
+=======
+        left: 10%;
+        position: relative;
+        top: 65%;
+    }
+
+    .infoCompleta{
+        left: 10%;
+        top: 65%;
+    }
+
+    .educacion-item{
+        width: 380px;
+>>>>>>> bc448b4 (Descripción de los cambios)
     }
 }
